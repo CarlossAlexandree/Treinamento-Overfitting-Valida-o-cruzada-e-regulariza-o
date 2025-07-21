@@ -20,3 +20,20 @@ Este repositório faz parte do meu portfólio acadêmico do **Mestrado em Inteli
 
 ## 📁 Estrutura do Projeto
 
+
+---
+
+## 💻 Como executar localmente
+
+```bash
+# 1. Clonar o repositório
+git clone https://github.com/CarlosAlexandree/Treinamento-Overfitting-Valida-o-cruzada-e-regulariza-o.git
+
+# 2. Entrar na pasta
+cd Treinamento-Overfitting-Valida-o-cruzada-e-regulariza-o
+
+# 3. Instalar dependências
+pip install -r requirements.txt
+
+# 4. Executar os notebooks
+jupyter notebook notebooks/
